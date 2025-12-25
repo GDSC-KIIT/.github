@@ -1,9 +1,9 @@
-# GDSC KIIT
+# GDG On Campus KIIT
 
 ![image](https://user-images.githubusercontent.com/91965754/196185396-fb4a5069-2d88-497e-b23d-d6d58dd6818b.png)
 
 
-Google Developer Student Clubs KIIT is a technical club focused on building a community of student developers interested in solving real-world problems. We host various workshops and hackathons. We also host flagship events from Google such as Android Study Jams, 30 days of Google Cloud, ExploreML etc.
+Google Developer Groups On Campus - KIIT is a technical club focused on building a community of student developers interested in solving real-world problems. We host various workshops and hackathons. We also host flagship events from Google such as Android Study Jams, 30 days of Google Cloud, ExploreML etc.
 
 Our goal is to build an inclusive community of students who want to learn about tech and grow together.
 
@@ -26,4 +26,4 @@ Visit [dsckiit.in](https://dsckiit.in) to learn more about us!
 
 ----
 
-GDSC KIIT projects adopt the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html). For more information see the [Code of Conduct FAQ](https://www.contributor-covenant.org/faq).
+GDG KIIT projects adopt the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html). For more information see the [Code of Conduct FAQ](https://www.contributor-covenant.org/faq).
